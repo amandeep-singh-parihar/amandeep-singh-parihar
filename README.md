@@ -2,7 +2,7 @@
 🔭 I’m currently working on Frontend Web development<br>🤝 I’m looking for help with Web3 technology<br>🌱 I’m currently learning MERN<br>💬 Ask me about C++, C, JAVA, Python
 
 <a href='https://holopin.io/@amandeepsinghparihar'>
-  <img src="https://holopin.me/amandeepsinghparihar /"
+  <img src="https://holopin.me/amandeepsinghparihar"/>
 </a>
 
 
