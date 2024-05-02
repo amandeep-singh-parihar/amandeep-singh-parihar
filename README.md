@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on Frontend Web development<br>🤝 I’m looking for help with Web3 technology<br>🌱 I’m currently learning MERN<br>💬 Ask me about C++, C, JAVA, Python
 
+<a href='https://holopin.io/@amandeepsinghparihar'>
+  <img src="https://holopin.me/amandeepsinghparihar /"
+</a>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amandeep-singh-parihar-8399aa25a/) 
