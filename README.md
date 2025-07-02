@@ -1,10 +1,9 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Open-source projects related to frontend development, developer tools, or edtech platforms.<br>🌱 I’m currently learning Advanced concepts in TypeScript, Redux Toolkit, and Next.js App Router. Practicing system design and dynamic programming.<br>💬 Ask me about React, Next.js, Node.js, building clean UI/UX, and how I organize my learning through roadmaps and focused project building.<br>⚡ Fun fact: I sometimes refactor my old projects just for fun, because clean code is as satisfying as solving a tough puzzle.<br><be>
+👯 I’m looking to collaborate on Open-source projects related to frontend development, developer tools, or edtech platforms.<br>🌱 I’m currently learning Advanced concepts in TypeScript, Redux Toolkit, and Next.js App Router. Practicing system design and dynamic programming.<br>💬 Ask me about React, Next.js, Node.js, building clean UI/UX, and how I organize my learning through roadmaps and focused project building.<br>⚡ Fun fact: I sometimes refactor my old projects just for fun, because clean code is as satisfying as solving a tough puzzle.<br><br>
 
 <a href='https://holopin.io/@amandeepsinghparihar'>
   <img src="https://holopin.me/amandeepsinghparihar"/>
 </a>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amandeep-singh-parihar-8399aa25a) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30950916) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/P0IS0N375996) 
@@ -16,11 +15,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=amandeep-singh-parihar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amandeep-singh-parihar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=amandeep-singh-parihar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amandeep-singh-parihar&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=amandeep-singh-parihar&icon=1&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/amandeepparihar) 
