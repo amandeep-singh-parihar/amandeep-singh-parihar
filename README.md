@@ -19,10 +19,16 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=amandeep-singh-parihar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amandeep-singh-parihar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+<!-- Snake game -->
+<img src="https://raw.githubusercontent.com/amandeep-singh-parihar/amandeep-singh-parihar/output/snake.svg" alt="Snake animation" />
+<!-- Snake game -->
+
+###
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -34,4 +40,3 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/amandeepparihar) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
