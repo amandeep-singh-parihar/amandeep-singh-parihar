@@ -25,7 +25,7 @@
 
 
 <!-- Snake game -->
-<img src="https://raw.githubusercontent.com/amandeep-singh-parihar/amandeep-singh-parihar/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/amandeep-singh-parihar/amandeep-singh-parihar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 <!-- Snake game -->
 
 ###
