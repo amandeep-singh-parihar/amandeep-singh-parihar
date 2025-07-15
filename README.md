@@ -24,11 +24,16 @@
 ![](https://github-profile-trophy.vercel.app/?username=amandeep-singh-parihar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-<!-- Snake game -->
-<img src="https://raw.githubusercontent.com/amandeep-singh-parihar/amandeep-singh-parihar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-<!-- Snake game -->
+<!-- pacman game -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amandeep-singh-parihar/amandeep-singh-parihar/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amandeep-singh-parihar/amandeep-singh-parihar/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amandeep-singh-parihar/amandeep-singh-parihar/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
+<!-- pacman game -->
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
